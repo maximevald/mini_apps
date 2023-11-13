@@ -1,16 +1,13 @@
-# course_app
+# Mini-apps
 
-A new Flutter project.
+This application is a collection of mini-applications in which I implement different logic and learn to use different dependencies.
 
-## Getting Started
+At the moment, the application has a dice roll and quizzes. The application will improve when I learn new interesting skills and want to add new mini apps.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+I used the following dependencies:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- google_fonts - to simple using differents fonts
+- audioplayers - to play music in apps
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
